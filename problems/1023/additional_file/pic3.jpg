@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>SignatureDoesNotMatch</Code><Message>The request signature we calculated does not match the signature you provided. Check your key and signing method.</Message><Resource>/hydro/FiP/BbNiHC-zc0C4oBDmSXvtD.jpg</Resource><RequestId>1684387204268795284</RequestId><Key>FiP/BbNiHC-zc0C4oBDmSXvtD.jpg</Key><BucketName>hydro</BucketName></Error>
