@@ -1,8 +1,8 @@
 [**#1000.** A+B Problem](https://hydro.ac/d/bzoj/p/1000)
 
-[**#1001.** [BeiJing2006]狼抓兔子](https://hydro.ac/d/bzoj/p/1001)
+[**#1001.** [BeiJing2006] 狼抓兔子](https://hydro.ac/d/bzoj/p/1001)
 
-[**#1002.** [FJOI2007]轮状病毒](https://hydro.ac/d/bzoj/p/1002)
+[**#1002.** [FJOI2007] 轮状病毒](https://hydro.ac/d/bzoj/p/1002)
 
 [**#1003.** [ZJOI2006]物流运输](https://hydro.ac/d/bzoj/p/1003)
 
