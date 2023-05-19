@@ -4,349 +4,349 @@
 
 [**#1002.** [FJOI2007] 轮状病毒](https://hydro.ac/d/bzoj/p/1002)
 
-[**#1003.** [ZJOI2006]物流运输](https://hydro.ac/d/bzoj/p/1003)
+[**#1003.** [ZJOI2006] 物流运输](https://hydro.ac/d/bzoj/p/1003)
 
-[**#1004.** [HNOI2008]Cards](https://hydro.ac/d/bzoj/p/1004)
+[**#1004.** [HNOI2008] Cards](https://hydro.ac/d/bzoj/p/1004)
 
-[**#1005.** [HNOI2008]明明的烦恼](https://hydro.ac/d/bzoj/p/1005)
+[**#1005.** [HNOI2008] 明明的烦恼](https://hydro.ac/d/bzoj/p/1005)
 
-[**#1006.** [HNOI2008]神奇的国度](https://hydro.ac/d/bzoj/p/1006)
+[**#1006.** [HNOI2008] 神奇的国度](https://hydro.ac/d/bzoj/p/1006)
 
-[**#1007.** [HNOI2008]水平可见直线](https://hydro.ac/d/bzoj/p/1007)
+[**#1007.** [HNOI2008] 水平可见直线](https://hydro.ac/d/bzoj/p/1007)
 
-[**#1008.** [HNOI2008]越狱](https://hydro.ac/d/bzoj/p/1008)
+[**#1008.** [HNOI2008] 越狱](https://hydro.ac/d/bzoj/p/1008)
 
-[**#1009.** [HNOI2008]GT考试](https://hydro.ac/d/bzoj/p/1009)
+[**#1009.** [HNOI2008] GT 考试](https://hydro.ac/d/bzoj/p/1009)
 
-[**#1010.** [HNOI2008]玩具装箱toy](https://hydro.ac/d/bzoj/p/1010)
+[**#1010.** [HNOI2008] 玩具装箱toy](https://hydro.ac/d/bzoj/p/1010)
 
-[**#1011.** [HNOI2008]遥远的行星](https://hydro.ac/d/bzoj/p/1011)
+[**#1011.** [HNOI2008] 遥远的行星](https://hydro.ac/d/bzoj/p/1011)
 
-[**#1012.** [JSOI2008]最大数maxnumber](https://hydro.ac/d/bzoj/p/1012)
+[**#1012.** [JSOI2008] 最大数maxnumber](https://hydro.ac/d/bzoj/p/1012)
 
-[**#1013.** [JSOI2008]球形空间产生器sphere](https://hydro.ac/d/bzoj/p/1013)
+[**#1013.** [JSOI2008] 球形空间产生器sphere](https://hydro.ac/d/bzoj/p/1013)
 
-[**#1014.** [JSOI2008]火星人prefix](https://hydro.ac/d/bzoj/p/1014)
+[**#1014.** [JSOI2008] 火星人prefix](https://hydro.ac/d/bzoj/p/1014)
 
-[**#1015.** [JSOI2008]星球大战starwar](https://hydro.ac/d/bzoj/p/1015)
+[**#1015.** [JSOI2008] 星球大战starwar](https://hydro.ac/d/bzoj/p/1015)
 
-[**#1016.** [JSOI2008]最小生成树计数](https://hydro.ac/d/bzoj/p/1016)
+[**#1016.** [JSOI2008] 最小生成树计数](https://hydro.ac/d/bzoj/p/1016)
 
-[**#1017.** [JSOI2008]魔兽地图DotR](https://hydro.ac/d/bzoj/p/1017)
+[**#1017.** [JSOI2008] 魔兽地图DotR](https://hydro.ac/d/bzoj/p/1017)
 
-[**#1018.** [SHOI2008]堵塞的交通traffic](https://hydro.ac/d/bzoj/p/1018)
+[**#1018.** [SHOI2008] 堵塞的交通traffic](https://hydro.ac/d/bzoj/p/1018)
 
-[**#1019.** [SHOI2008]汉诺塔](https://hydro.ac/d/bzoj/p/1019)
+[**#1019.** [SHOI2008] 汉诺塔](https://hydro.ac/d/bzoj/p/1019)
 
-[**#1020.** [SHOI2008]安全的航线flight](https://hydro.ac/d/bzoj/p/1020)
+[**#1020.** [SHOI2008] 安全的航线flight](https://hydro.ac/d/bzoj/p/1020)
 
-[**#1021.** [SHOI2008]Debt 循环的债务](https://hydro.ac/d/bzoj/p/1021)
+[**#1021.** [SHOI2008] Debt 循环的债务](https://hydro.ac/d/bzoj/p/1021)
 
-[**#1022.** [SHOI2008]小约翰的游戏John](https://hydro.ac/d/bzoj/p/1022)
+[**#1022.** [SHOI2008] 小约翰的游戏John](https://hydro.ac/d/bzoj/p/1022)
 
-[**#1023.** [SHOI2008]cactus仙人掌图](https://hydro.ac/d/bzoj/p/1023)
+[**#1023.** [SHOI2008] cactus仙人掌图](https://hydro.ac/d/bzoj/p/1023)
 
-[**#1024.** [SCOI2009]生日快乐](https://hydro.ac/d/bzoj/p/1024)
+[**#1024.** [SCOI2009] 生日快乐](https://hydro.ac/d/bzoj/p/1024)
 
-[**#1025.** [SCOI2009]游戏](https://hydro.ac/d/bzoj/p/1025)
+[**#1025.** [SCOI2009] 游戏](https://hydro.ac/d/bzoj/p/1025)
 
-[**#1026.** [SCOI2009]windy数](https://hydro.ac/d/bzoj/p/1026)
+[**#1026.** [SCOI2009] windy 数](https://hydro.ac/d/bzoj/p/1026)
 
-[**#1027.** [JSOI2007]合金](https://hydro.ac/d/bzoj/p/1027)
+[**#1027.** [JSOI2007] 合金](https://hydro.ac/d/bzoj/p/1027)
 
-[**#1028.** [JSOI2007]麻将](https://hydro.ac/d/bzoj/p/1028)
+[**#1028.** [JSOI2007] 麻将](https://hydro.ac/d/bzoj/p/1028)
 
-[**#1029.** [JSOI2007]建筑抢修](https://hydro.ac/d/bzoj/p/1029)
+[**#1029.** [JSOI2007] 建筑抢修](https://hydro.ac/d/bzoj/p/1029)
 
-[**#1030.** [JSOI2007]文本生成器](https://hydro.ac/d/bzoj/p/1030)
+[**#1030.** [JSOI2007] 文本生成器](https://hydro.ac/d/bzoj/p/1030)
 
-[**#1031.** [JSOI2007]字符加密Cipher](https://hydro.ac/d/bzoj/p/1031)
+[**#1031.** [JSOI2007] 字符加密Cipher](https://hydro.ac/d/bzoj/p/1031)
 
-[**#1032.** [JSOI2007]祖码Zuma](https://hydro.ac/d/bzoj/p/1032)
+[**#1032.** [JSOI2007] 祖码Zuma](https://hydro.ac/d/bzoj/p/1032)
 
-[**#1033.** [ZJOI2008]杀蚂蚁antbuster](https://hydro.ac/d/bzoj/p/1033)
+[**#1033.** [ZJOI2008] 杀蚂蚁antbuster](https://hydro.ac/d/bzoj/p/1033)
 
-[**#1034.** [ZJOI2008]泡泡堂BNB](https://hydro.ac/d/bzoj/p/1034)
+[**#1034.** [ZJOI2008] 泡泡堂BNB](https://hydro.ac/d/bzoj/p/1034)
 
-[**#1035.** [ZJOI2008]Risk](https://hydro.ac/d/bzoj/p/1035)
+[**#1035.** [ZJOI2008] Risk](https://hydro.ac/d/bzoj/p/1035)
 
-[**#1036.** [ZJOI2008]树的统计Count](https://hydro.ac/d/bzoj/p/1036)
+[**#1036.** [ZJOI2008] 树的统计Count](https://hydro.ac/d/bzoj/p/1036)
 
-[**#1037.** [ZJOI2008]生日聚会Party](https://hydro.ac/d/bzoj/p/1037)
+[**#1037.** [ZJOI2008] 生日聚会Party](https://hydro.ac/d/bzoj/p/1037)
 
-[**#1038.** [ZJOI2008]瞭望塔](https://hydro.ac/d/bzoj/p/1038)
+[**#1038.** [ZJOI2008] 瞭望塔](https://hydro.ac/d/bzoj/p/1038)
 
-[**#1039.** [ZJOI2008]无序运动Movement](https://hydro.ac/d/bzoj/p/1039)
+[**#1039.** [ZJOI2008] 无序运动Movement](https://hydro.ac/d/bzoj/p/1039)
 
-[**#1040.** [ZJOI2008]骑士](https://hydro.ac/d/bzoj/p/1040)
+[**#1040.** [ZJOI2008] 骑士](https://hydro.ac/d/bzoj/p/1040)
 
-[**#1041.** [HAOI2008]圆上的整点](https://hydro.ac/d/bzoj/p/1041)
+[**#1041.** [HAOI2008] 圆上的整点](https://hydro.ac/d/bzoj/p/1041)
 
-[**#1042.** [HAOI2008]硬币购物](https://hydro.ac/d/bzoj/p/1042)
+[**#1042.** [HAOI2008] 硬币购物](https://hydro.ac/d/bzoj/p/1042)
 
-[**#1043.** [HAOI2008]下落的圆盘](https://hydro.ac/d/bzoj/p/1043)
+[**#1043.** [HAOI2008] 下落的圆盘](https://hydro.ac/d/bzoj/p/1043)
 
-[**#1044.** [HAOI2008]木棍分割](https://hydro.ac/d/bzoj/p/1044)
+[**#1044.** [HAOI2008] 木棍分割](https://hydro.ac/d/bzoj/p/1044)
 
-[**#1045.** [HAOI2008] 糖果传递](https://hydro.ac/d/bzoj/p/1045)
+[**#1045.** [HAOI2008]  糖果传递](https://hydro.ac/d/bzoj/p/1045)
 
-[**#1046.** [HAOI2007]上升序列](https://hydro.ac/d/bzoj/p/1046)
+[**#1046.** [HAOI2007] 上升序列](https://hydro.ac/d/bzoj/p/1046)
 
-[**#1047.** [HAOI2007]理想的正方形](https://hydro.ac/d/bzoj/p/1047)
+[**#1047.** [HAOI2007] 理想的正方形](https://hydro.ac/d/bzoj/p/1047)
 
-[**#1048.** [HAOI2007]分割矩阵](https://hydro.ac/d/bzoj/p/1048)
+[**#1048.** [HAOI2007] 分割矩阵](https://hydro.ac/d/bzoj/p/1048)
 
-[**#1049.** [HAOI2006]数字序列](https://hydro.ac/d/bzoj/p/1049)
+[**#1049.** [HAOI2006] 数字序列](https://hydro.ac/d/bzoj/p/1049)
 
-[**#1050.** [HAOI2006]旅行comf](https://hydro.ac/d/bzoj/p/1050)
+[**#1050.** [HAOI2006] 旅行comf](https://hydro.ac/d/bzoj/p/1050)
 
-[**#1051.** [HAOI2006]受欢迎的牛](https://hydro.ac/d/bzoj/p/1051)
+[**#1051.** [HAOI2006] 受欢迎的牛](https://hydro.ac/d/bzoj/p/1051)
 
-[**#1052.** [HAOI2007]覆盖问题](https://hydro.ac/d/bzoj/p/1052)
+[**#1052.** [HAOI2007] 覆盖问题](https://hydro.ac/d/bzoj/p/1052)
 
-[**#1053.** [HAOI2007]反素数ant](https://hydro.ac/d/bzoj/p/1053)
+[**#1053.** [HAOI2007] 反素数ant](https://hydro.ac/d/bzoj/p/1053)
 
-[**#1054.** [HAOI2008]移动玩具](https://hydro.ac/d/bzoj/p/1054)
+[**#1054.** [HAOI2008] 移动玩具](https://hydro.ac/d/bzoj/p/1054)
 
-[**#1055.** [HAOI2008]玩具取名](https://hydro.ac/d/bzoj/p/1055)
+[**#1055.** [HAOI2008] 玩具取名](https://hydro.ac/d/bzoj/p/1055)
 
-[**#1056.** [HAOI2008]排名系统](https://hydro.ac/d/bzoj/p/1056)
+[**#1056.** [HAOI2008] 排名系统](https://hydro.ac/d/bzoj/p/1056)
 
-[**#1057.** [ZJOI2007]棋盘制作](https://hydro.ac/d/bzoj/p/1057)
+[**#1057.** [ZJOI2007] 棋盘制作](https://hydro.ac/d/bzoj/p/1057)
 
-[**#1058.** [ZJOI2007]报表统计](https://hydro.ac/d/bzoj/p/1058)
+[**#1058.** [ZJOI2007] 报表统计](https://hydro.ac/d/bzoj/p/1058)
 
-[**#1059.** [ZJOI2007]矩阵游戏](https://hydro.ac/d/bzoj/p/1059)
+[**#1059.** [ZJOI2007] 矩阵游戏](https://hydro.ac/d/bzoj/p/1059)
 
-[**#1060.** [ZJOI2007]时态同步](https://hydro.ac/d/bzoj/p/1060)
+[**#1060.** [ZJOI2007] 时态同步](https://hydro.ac/d/bzoj/p/1060)
 
-[**#1061.** [NOI2008]志愿者招募](https://hydro.ac/d/bzoj/p/1061)
+[**#1061.** [NOI2008] 志愿者招募](https://hydro.ac/d/bzoj/p/1061)
 
-[**#1062.** [NOI2008]糖果雨](https://hydro.ac/d/bzoj/p/1062)
+[**#1062.** [NOI2008] 糖果雨](https://hydro.ac/d/bzoj/p/1062)
 
-[**#1063.** [NOI2008]道路设计](https://hydro.ac/d/bzoj/p/1063)
+[**#1063.** [NOI2008] 道路设计](https://hydro.ac/d/bzoj/p/1063)
 
-[**#1064.** [NOI2008]假面舞会](https://hydro.ac/d/bzoj/p/1064)
+[**#1064.** [NOI2008] 假面舞会](https://hydro.ac/d/bzoj/p/1064)
 
-[**#1065.** [NOI2008]奥运物流](https://hydro.ac/d/bzoj/p/1065)
+[**#1065.** [NOI2008] 奥运物流](https://hydro.ac/d/bzoj/p/1065)
 
-[**#1066.** [SCOI2007]蜥蜴](https://hydro.ac/d/bzoj/p/1066)
+[**#1066.** [SCOI2007] 蜥蜴](https://hydro.ac/d/bzoj/p/1066)
 
-[**#1067.** [SCOI2007]降雨量](https://hydro.ac/d/bzoj/p/1067)
+[**#1067.** [SCOI2007] 降雨量](https://hydro.ac/d/bzoj/p/1067)
 
-[**#1068.** [SCOI2007]压缩](https://hydro.ac/d/bzoj/p/1068)
+[**#1068.** [SCOI2007] 压缩](https://hydro.ac/d/bzoj/p/1068)
 
-[**#1069.** [SCOI2007]最大土地面积](https://hydro.ac/d/bzoj/p/1069)
+[**#1069.** [SCOI2007] 最大土地面积](https://hydro.ac/d/bzoj/p/1069)
 
-[**#1070.** [SCOI2007]修车](https://hydro.ac/d/bzoj/p/1070)
+[**#1070.** [SCOI2007] 修车](https://hydro.ac/d/bzoj/p/1070)
 
-[**#1071.** [SCOI2007]组队](https://hydro.ac/d/bzoj/p/1071)
+[**#1071.** [SCOI2007] 组队](https://hydro.ac/d/bzoj/p/1071)
 
-[**#1072.** [SCOI2007]排列perm](https://hydro.ac/d/bzoj/p/1072)
+[**#1072.** [SCOI2007] 排列perm](https://hydro.ac/d/bzoj/p/1072)
 
-[**#1073.** [SCOI2007]kshort](https://hydro.ac/d/bzoj/p/1073)
+[**#1073.** [SCOI2007] kshort](https://hydro.ac/d/bzoj/p/1073)
 
-[**#1074.** [SCOI2007]折纸origami](https://hydro.ac/d/bzoj/p/1074)
+[**#1074.** [SCOI2007] 折纸origami](https://hydro.ac/d/bzoj/p/1074)
 
-[**#1075.** [SCOI2007]最优驾车drive](https://hydro.ac/d/bzoj/p/1075)
+[**#1075.** [SCOI2007] 最优驾车drive](https://hydro.ac/d/bzoj/p/1075)
 
-[**#1076.** [SCOI2008]奖励关](https://hydro.ac/d/bzoj/p/1076)
+[**#1076.** [SCOI2008] 奖励关](https://hydro.ac/d/bzoj/p/1076)
 
-[**#1077.** [SCOI2008]天平](https://hydro.ac/d/bzoj/p/1077)
+[**#1077.** [SCOI2008] 天平](https://hydro.ac/d/bzoj/p/1077)
 
-[**#1078.** [SCOI2008]斜堆](https://hydro.ac/d/bzoj/p/1078)
+[**#1078.** [SCOI2008] 斜堆](https://hydro.ac/d/bzoj/p/1078)
 
-[**#1079.** [SCOI2008]着色方案](https://hydro.ac/d/bzoj/p/1079)
+[**#1079.** [SCOI2008] 着色方案](https://hydro.ac/d/bzoj/p/1079)
 
-[**#1080.** [SCOI2008]劣质编码](https://hydro.ac/d/bzoj/p/1080)
+[**#1080.** [SCOI2008] 劣质编码](https://hydro.ac/d/bzoj/p/1080)
 
-[**#1081.** [SCOI2005]超级格雷码](https://hydro.ac/d/bzoj/p/1081)
+[**#1081.** [SCOI2005] 超级格雷码](https://hydro.ac/d/bzoj/p/1081)
 
-[**#1082.** [SCOI2005]栅栏](https://hydro.ac/d/bzoj/p/1082)
+[**#1082.** [SCOI2005] 栅栏](https://hydro.ac/d/bzoj/p/1082)
 
-[**#1083.** [SCOI2005]繁忙的都市](https://hydro.ac/d/bzoj/p/1083)
+[**#1083.** [SCOI2005] 繁忙的都市](https://hydro.ac/d/bzoj/p/1083)
 
-[**#1084.** [SCOI2005]最大子矩阵](https://hydro.ac/d/bzoj/p/1084)
+[**#1084.** [SCOI2005] 最大子矩阵](https://hydro.ac/d/bzoj/p/1084)
 
-[**#1085.** [SCOI2005]骑士精神](https://hydro.ac/d/bzoj/p/1085)
+[**#1085.** [SCOI2005] 骑士精神](https://hydro.ac/d/bzoj/p/1085)
 
-[**#1086.** [SCOI2005]王室联邦](https://hydro.ac/d/bzoj/p/1086)
+[**#1086.** [SCOI2005] 王室联邦](https://hydro.ac/d/bzoj/p/1086)
 
-[**#1087.** [SCOI2005]互不侵犯King](https://hydro.ac/d/bzoj/p/1087)
+[**#1087.** [SCOI2005] 互不侵犯King](https://hydro.ac/d/bzoj/p/1087)
 
-[**#1088.** [SCOI2005]扫雷Mine](https://hydro.ac/d/bzoj/p/1088)
+[**#1088.** [SCOI2005] 扫雷Mine](https://hydro.ac/d/bzoj/p/1088)
 
-[**#1089.** [SCOI2003]严格n元树](https://hydro.ac/d/bzoj/p/1089)
+[**#1089.** [SCOI2003] 严格n元树](https://hydro.ac/d/bzoj/p/1089)
 
-[**#1090.** [SCOI2003]字符串折叠](https://hydro.ac/d/bzoj/p/1090)
+[**#1090.** [SCOI2003] 字符串折叠](https://hydro.ac/d/bzoj/p/1090)
 
-[**#1091.** [SCOI2003]切割多边形](https://hydro.ac/d/bzoj/p/1091)
+[**#1091.** [SCOI2003] 切割多边形](https://hydro.ac/d/bzoj/p/1091)
 
-[**#1092.** [SCOI2003]蜘蛛难题](https://hydro.ac/d/bzoj/p/1092)
+[**#1092.** [SCOI2003] 蜘蛛难题](https://hydro.ac/d/bzoj/p/1092)
 
-[**#1093.** [ZJOI2007]最大半连通子图](https://hydro.ac/d/bzoj/p/1093)
+[**#1093.** [ZJOI2007] 最大半连通子图](https://hydro.ac/d/bzoj/p/1093)
 
-[**#1094.** [ZJOI2007]粒子运动](https://hydro.ac/d/bzoj/p/1094)
+[**#1094.** [ZJOI2007] 粒子运动](https://hydro.ac/d/bzoj/p/1094)
 
-[**#1095.** [ZJOI2007]Hide 捉迷藏](https://hydro.ac/d/bzoj/p/1095)
+[**#1095.** [ZJOI2007] Hide 捉迷藏](https://hydro.ac/d/bzoj/p/1095)
 
-[**#1096.** [ZJOI2007]仓库建设](https://hydro.ac/d/bzoj/p/1096)
+[**#1096.** [ZJOI2007] 仓库建设](https://hydro.ac/d/bzoj/p/1096)
 
-[**#1097.** [POI2007]旅游景点atr](https://hydro.ac/d/bzoj/p/1097)
+[**#1097.** [POI2007] 旅游景点atr](https://hydro.ac/d/bzoj/p/1097)
 
-[**#1098.** [POI2007]办公楼biu](https://hydro.ac/d/bzoj/p/1098)
+[**#1098.** [POI2007] 办公楼biu](https://hydro.ac/d/bzoj/p/1098)
 
-[**#1099.** [POI2007]树Drz](https://hydro.ac/d/bzoj/p/1099)
+[**#1099.** [POI2007] 树Drz](https://hydro.ac/d/bzoj/p/1099)
 
-[**#1100.** [POI2007]对称轴osi](https://hydro.ac/d/bzoj/p/1100)
+[**#1100.** [POI2007] 对称轴osi](https://hydro.ac/d/bzoj/p/1100)
 
-[**#1101.** [POI2007]Zap](https://hydro.ac/d/bzoj/p/1101)
+[**#1101.** [POI2007] Zap](https://hydro.ac/d/bzoj/p/1101)
 
-[**#1102.** [POI2007]山峰和山谷Grz](https://hydro.ac/d/bzoj/p/1102)
+[**#1102.** [POI2007] 山峰和山谷Grz](https://hydro.ac/d/bzoj/p/1102)
 
-[**#1103.** [POI2007]大都市meg](https://hydro.ac/d/bzoj/p/1103)
+[**#1103.** [POI2007] 大都市meg](https://hydro.ac/d/bzoj/p/1103)
 
-[**#1104.** [POI2007]洪水pow](https://hydro.ac/d/bzoj/p/1104)
+[**#1104.** [POI2007] 洪水pow](https://hydro.ac/d/bzoj/p/1104)
 
-[**#1105.** [POI2007]石头花园SKA](https://hydro.ac/d/bzoj/p/1105)
+[**#1105.** [POI2007] 石头花园SKA](https://hydro.ac/d/bzoj/p/1105)
 
-[**#1106.** [POI2007]立方体大作战tet](https://hydro.ac/d/bzoj/p/1106)
+[**#1106.** [POI2007] 立方体大作战tet](https://hydro.ac/d/bzoj/p/1106)
 
-[**#1107.** [POI2007]驾驶考试egz](https://hydro.ac/d/bzoj/p/1107)
+[**#1107.** [POI2007] 驾驶考试egz](https://hydro.ac/d/bzoj/p/1107)
 
-[**#1108.** [POI2007]天然气管道Gaz](https://hydro.ac/d/bzoj/p/1108)
+[**#1108.** [POI2007] 天然气管道Gaz](https://hydro.ac/d/bzoj/p/1108)
 
-[**#1109.** [POI2007]堆积木Klo](https://hydro.ac/d/bzoj/p/1109)
+[**#1109.** [POI2007] 堆积木Klo](https://hydro.ac/d/bzoj/p/1109)
 
-[**#1110.** [POI2007]砝码Odw](https://hydro.ac/d/bzoj/p/1110)
+[**#1110.** [POI2007] 砝码Odw](https://hydro.ac/d/bzoj/p/1110)
 
-[**#1111.** [POI2007]四进制的天平Wag](https://hydro.ac/d/bzoj/p/1111)
+[**#1111.** [POI2007] 四进制的天平Wag](https://hydro.ac/d/bzoj/p/1111)
 
-[**#1112.** [POI2008]砖块Klo](https://hydro.ac/d/bzoj/p/1112)
+[**#1112.** [POI2008] 砖块Klo](https://hydro.ac/d/bzoj/p/1112)
 
-[**#1113.** [POI2008]海报PLA](https://hydro.ac/d/bzoj/p/1113)
+[**#1113.** [POI2008] 海报PLA](https://hydro.ac/d/bzoj/p/1113)
 
-[**#1114.** [POI2008]鲁滨逊逃生Rob](https://hydro.ac/d/bzoj/p/1114)
+[**#1114.** [POI2008] 鲁滨逊逃生Rob](https://hydro.ac/d/bzoj/p/1114)
 
-[**#1115.** [POI2009]石子游戏Kam](https://hydro.ac/d/bzoj/p/1115)
+[**#1115.** [POI2009] 石子游戏Kam](https://hydro.ac/d/bzoj/p/1115)
 
-[**#1116.** [POI2008]CLO](https://hydro.ac/d/bzoj/p/1116)
+[**#1116.** [POI2008] CLO](https://hydro.ac/d/bzoj/p/1116)
 
-[**#1117.** [POI2009]救火站Gas](https://hydro.ac/d/bzoj/p/1117)
+[**#1117.** [POI2009] 救火站Gas](https://hydro.ac/d/bzoj/p/1117)
 
-[**#1118.** [POI2009]Prz](https://hydro.ac/d/bzoj/p/1118)
+[**#1118.** [POI2009] Prz](https://hydro.ac/d/bzoj/p/1118)
 
-[**#1119.** [POI2009]SLO](https://hydro.ac/d/bzoj/p/1119)
+[**#1119.** [POI2009] SLO](https://hydro.ac/d/bzoj/p/1119)
 
-[**#1120.** [POI2009]STR](https://hydro.ac/d/bzoj/p/1120)
+[**#1120.** [POI2009] STR](https://hydro.ac/d/bzoj/p/1120)
 
-[**#1121.** [POI2008]激光发射器SZK](https://hydro.ac/d/bzoj/p/1121)
+[**#1121.** [POI2008] 激光发射器SZK](https://hydro.ac/d/bzoj/p/1121)
 
-[**#1122.** [POI2008]账本BBB](https://hydro.ac/d/bzoj/p/1122)
+[**#1122.** [POI2008] 账本BBB](https://hydro.ac/d/bzoj/p/1122)
 
-[**#1123.** [POI2008]BLO](https://hydro.ac/d/bzoj/p/1123)
+[**#1123.** [POI2008] BLO](https://hydro.ac/d/bzoj/p/1123)
 
-[**#1124.** [POI2008]枪战Maf](https://hydro.ac/d/bzoj/p/1124)
+[**#1124.** [POI2008] 枪战Maf](https://hydro.ac/d/bzoj/p/1124)
 
-[**#1125.** [POI2008]Poc](https://hydro.ac/d/bzoj/p/1125)
+[**#1125.** [POI2008] Poc](https://hydro.ac/d/bzoj/p/1125)
 
-[**#1126.** [POI2008]Uci](https://hydro.ac/d/bzoj/p/1126)
+[**#1126.** [POI2008] Uci](https://hydro.ac/d/bzoj/p/1126)
 
-[**#1127.** [POI2008]KUP](https://hydro.ac/d/bzoj/p/1127)
+[**#1127.** [POI2008] KUP](https://hydro.ac/d/bzoj/p/1127)
 
-[**#1128.** [POI2008]Lam](https://hydro.ac/d/bzoj/p/1128)
+[**#1128.** [POI2008] Lam](https://hydro.ac/d/bzoj/p/1128)
 
-[**#1129.** [POI2008]Per](https://hydro.ac/d/bzoj/p/1129)
+[**#1129.** [POI2008] Per](https://hydro.ac/d/bzoj/p/1129)
 
-[**#1130.** [POI2008]POD Subdivision of Kingdom](https://hydro.ac/d/bzoj/p/1130)
+[**#1130.** [POI2008] POD Subdivision of Kingdom](https://hydro.ac/d/bzoj/p/1130)
 
-[**#1131.** [POI2008]Sta](https://hydro.ac/d/bzoj/p/1131)
+[**#1131.** [POI2008] Sta](https://hydro.ac/d/bzoj/p/1131)
 
-[**#1132.** [POI2008]Tro](https://hydro.ac/d/bzoj/p/1132)
+[**#1132.** [POI2008] Tro](https://hydro.ac/d/bzoj/p/1132)
 
-[**#1133.** [POI2009]Kon](https://hydro.ac/d/bzoj/p/1133)
+[**#1133.** [POI2009] Kon](https://hydro.ac/d/bzoj/p/1133)
 
-[**#1134.** [POI2009]Wys 三角形岛](https://hydro.ac/d/bzoj/p/1134)
+[**#1134.** [POI2009] Wys 三角形岛](https://hydro.ac/d/bzoj/p/1134)
 
-[**#1135.** [POI2009]Lyz](https://hydro.ac/d/bzoj/p/1135)
+[**#1135.** [POI2009] Lyz](https://hydro.ac/d/bzoj/p/1135)
 
-[**#1136.** [POI2009]Arc](https://hydro.ac/d/bzoj/p/1136)
+[**#1136.** [POI2009] Arc](https://hydro.ac/d/bzoj/p/1136)
 
-[**#1137.** [POI2009]Wsp 岛屿](https://hydro.ac/d/bzoj/p/1137)
+[**#1137.** [POI2009] Wsp 岛屿](https://hydro.ac/d/bzoj/p/1137)
 
-[**#1138.** [POI2009]Baj 最短回文路](https://hydro.ac/d/bzoj/p/1138)
+[**#1138.** [POI2009] Baj 最短回文路](https://hydro.ac/d/bzoj/p/1138)
 
-[**#1139.** [POI2009]Wie](https://hydro.ac/d/bzoj/p/1139)
+[**#1139.** [POI2009] Wie](https://hydro.ac/d/bzoj/p/1139)
 
-[**#1140.** [POI2009]KOD 编码](https://hydro.ac/d/bzoj/p/1140)
+[**#1140.** [POI2009] KOD 编码](https://hydro.ac/d/bzoj/p/1140)
 
-[**#1141.** [POI2009]Slw](https://hydro.ac/d/bzoj/p/1141)
+[**#1141.** [POI2009] Slw](https://hydro.ac/d/bzoj/p/1141)
 
-[**#1142.** [POI2009]Tab](https://hydro.ac/d/bzoj/p/1142)
+[**#1142.** [POI2009] Tab](https://hydro.ac/d/bzoj/p/1142)
 
-[**#1143.** [CTSC2008]祭祀river](https://hydro.ac/d/bzoj/p/1143)
+[**#1143.** [CTSC2008] 祭祀river](https://hydro.ac/d/bzoj/p/1143)
 
-[**#1144.** [CTSC2008]奥运抽奖volunteer](https://hydro.ac/d/bzoj/p/1144)
+[**#1144.** [CTSC2008] 奥运抽奖volunteer](https://hydro.ac/d/bzoj/p/1144)
 
-[**#1145.** [CTSC2008]图腾totem](https://hydro.ac/d/bzoj/p/1145)
+[**#1145.** [CTSC2008] 图腾totem](https://hydro.ac/d/bzoj/p/1145)
 
-[**#1146.** [CTSC2008]网络管理Network](https://hydro.ac/d/bzoj/p/1146)
+[**#1146.** [CTSC2008] 网络管理Network](https://hydro.ac/d/bzoj/p/1146)
 
-[**#1147.** [CTSC2007]矩阵Matrix](https://hydro.ac/d/bzoj/p/1147)
+[**#1147.** [CTSC2007] 矩阵Matrix](https://hydro.ac/d/bzoj/p/1147)
 
-[**#1148.** [CTSC2007]挂缀pendant](https://hydro.ac/d/bzoj/p/1148)
+[**#1148.** [CTSC2007] 挂缀pendant](https://hydro.ac/d/bzoj/p/1148)
 
-[**#1149.** [CTSC2007]风玲Mobiles](https://hydro.ac/d/bzoj/p/1149)
+[**#1149.** [CTSC2007] 风玲Mobiles](https://hydro.ac/d/bzoj/p/1149)
 
-[**#1150.** [CTSC2007]数据备份Backup](https://hydro.ac/d/bzoj/p/1150)
+[**#1150.** [CTSC2007] 数据备份Backup](https://hydro.ac/d/bzoj/p/1150)
 
-[**#1151.** [CTSC2007]动物园zoo](https://hydro.ac/d/bzoj/p/1151)
+[**#1151.** [CTSC2007] 动物园zoo](https://hydro.ac/d/bzoj/p/1151)
 
-[**#1152.** [CTSC2006]歌唱王国Singleland](https://hydro.ac/d/bzoj/p/1152)
+[**#1152.** [CTSC2006] 歌唱王国Singleland](https://hydro.ac/d/bzoj/p/1152)
 
-[**#1153.** [CTSC2006]拼图Jigsaw](https://hydro.ac/d/bzoj/p/1153)
+[**#1153.** [CTSC2006] 拼图Jigsaw](https://hydro.ac/d/bzoj/p/1153)
 
-[**#1154.** [CTSC2006]方块填数Fill](https://hydro.ac/d/bzoj/p/1154)
+[**#1154.** [CTSC2006] 方块填数Fill](https://hydro.ac/d/bzoj/p/1154)
 
-[**#1155.** [CTSC2006]投篮游戏shooting](https://hydro.ac/d/bzoj/p/1155)
+[**#1155.** [CTSC2006] 投篮游戏shooting](https://hydro.ac/d/bzoj/p/1155)
 
-[**#1156.** [CTSC2005]魔术眼镜盒Glass](https://hydro.ac/d/bzoj/p/1156)
+[**#1156.** [CTSC2005] 魔术眼镜盒Glass](https://hydro.ac/d/bzoj/p/1156)
 
-[**#1157.** [CTSC2005]合并正方形combine](https://hydro.ac/d/bzoj/p/1157)
+[**#1157.** [CTSC2005] 合并正方形combine](https://hydro.ac/d/bzoj/p/1157)
 
-[**#1158.** [CTSC2005]玩具的重量weight](https://hydro.ac/d/bzoj/p/1158)
+[**#1158.** [CTSC2005] 玩具的重量weight](https://hydro.ac/d/bzoj/p/1158)
 
-[**#1159.** [CTSC2005]孤独的牧羊女dalarna](https://hydro.ac/d/bzoj/p/1159)
+[**#1159.** [CTSC2005] 孤独的牧羊女dalarna](https://hydro.ac/d/bzoj/p/1159)
 
-[**#1160.** [CTSC2004]最优切割](https://hydro.ac/d/bzoj/p/1160)
+[**#1160.** [CTSC2004] 最优切割](https://hydro.ac/d/bzoj/p/1160)
 
-[**#1161.** [CTSC2004]数字搜索regular](https://hydro.ac/d/bzoj/p/1161)
+[**#1161.** [CTSC2004] 数字搜索regular](https://hydro.ac/d/bzoj/p/1161)
 
-[**#1162.** [CTSC2004]网络改造network](https://hydro.ac/d/bzoj/p/1162)
+[**#1162.** [CTSC2004] 网络改造network](https://hydro.ac/d/bzoj/p/1162)
 
-[**#1163.** [Baltic2008]Mafia](https://hydro.ac/d/bzoj/p/1163)
+[**#1163.** [Baltic2008] Mafia](https://hydro.ac/d/bzoj/p/1163)
 
-[**#1164.** [Baltic2008]Game](https://hydro.ac/d/bzoj/p/1164)
+[**#1164.** [Baltic2008] Game](https://hydro.ac/d/bzoj/p/1164)
 
-[**#1165.** [Baltic2008]Gates](https://hydro.ac/d/bzoj/p/1165)
+[**#1165.** [Baltic2008] Gates](https://hydro.ac/d/bzoj/p/1165)
 
-[**#1166.** [Baltic2008]Magical Stones](https://hydro.ac/d/bzoj/p/1166)
+[**#1166.** [Baltic2008] Magical Stones](https://hydro.ac/d/bzoj/p/1166)
 
-[**#1167.** [Baltic2008]Elections](https://hydro.ac/d/bzoj/p/1167)
+[**#1167.** [Baltic2008] Elections](https://hydro.ac/d/bzoj/p/1167)
 
-[**#1168.** [Baltic2008]Gloves](https://hydro.ac/d/bzoj/p/1168)
+[**#1168.** [Baltic2008] Gloves](https://hydro.ac/d/bzoj/p/1168)
 
-[**#1169.** [Baltic2008]Grid](https://hydro.ac/d/bzoj/p/1169)
+[**#1169.** [Baltic2008] Grid](https://hydro.ac/d/bzoj/p/1169)
 
-[**#1170.** [Balkan2007]Cipher](https://hydro.ac/d/bzoj/p/1170)
+[**#1170.** [Balkan2007] Cipher](https://hydro.ac/d/bzoj/p/1170)
 
-[**#1171.** 大sz的游戏](https://hydro.ac/d/bzoj/p/1171)
+[**#1171.** 大 sz 的游戏](https://hydro.ac/d/bzoj/p/1171)
 
-[**#1172.** [Balkan2007]Dream](https://hydro.ac/d/bzoj/p/1172)
+[**#1172.** [Balkan2007] Dream](https://hydro.ac/d/bzoj/p/1172)
 
-[**#1173.** [Balkan2007]Point](https://hydro.ac/d/bzoj/p/1173)
+[**#1173.** [Balkan2007] Point](https://hydro.ac/d/bzoj/p/1173)
 
-[**#1174.** [Balkan2007]Toponyms](https://hydro.ac/d/bzoj/p/1174)
+[**#1174.** [Balkan2007] Toponyms](https://hydro.ac/d/bzoj/p/1174)
 
 [**#1175.** [Balkan2007] The stairways of Saharna](https://hydro.ac/d/bzoj/p/1175)
 
@@ -398,97 +398,97 @@
 
 [**#1199.** [HNOI2005] 汤姆的游戏](https://hydro.ac/d/bzoj/p/1199)
 
-[**#1200.** [HNOI2005]木梳](https://hydro.ac/d/bzoj/p/1200)
+[**#1200.** [HNOI2005] 木梳](https://hydro.ac/d/bzoj/p/1200)
 
-[**#1201.** [HNOI2005]数三角形](https://hydro.ac/d/bzoj/p/1201)
+[**#1201.** [HNOI2005] 数三角形](https://hydro.ac/d/bzoj/p/1201)
 
-[**#1202.** [HNOI2005]狡猾的商人](https://hydro.ac/d/bzoj/p/1202)
+[**#1202.** [HNOI2005] 狡猾的商人](https://hydro.ac/d/bzoj/p/1202)
 
-[**#1203.** [HNOI2005]纸片覆盖](https://hydro.ac/d/bzoj/p/1203)
+[**#1203.** [HNOI2005] 纸片覆盖](https://hydro.ac/d/bzoj/p/1203)
 
-[**#1204.** [HNOI2005]分形](https://hydro.ac/d/bzoj/p/1204)
+[**#1204.** [HNOI2005] 分形](https://hydro.ac/d/bzoj/p/1204)
 
-[**#1205.** [HNOI2005]星际贸易](https://hydro.ac/d/bzoj/p/1205)
+[**#1205.** [HNOI2005] 星际贸易](https://hydro.ac/d/bzoj/p/1205)
 
-[**#1206.** [HNOI2005]虚拟内存](https://hydro.ac/d/bzoj/p/1206)
+[**#1206.** [HNOI2005] 虚拟内存](https://hydro.ac/d/bzoj/p/1206)
 
-[**#1207.** [HNOI2004]打鼹鼠](https://hydro.ac/d/bzoj/p/1207)
+[**#1207.** [HNOI2004] 打鼹鼠](https://hydro.ac/d/bzoj/p/1207)
 
-[**#1208.** [HNOI2004]宠物收养场](https://hydro.ac/d/bzoj/p/1208)
+[**#1208.** [HNOI2004] 宠物收养场](https://hydro.ac/d/bzoj/p/1208)
 
-[**#1209.** [HNOI2004]最佳包裹](https://hydro.ac/d/bzoj/p/1209)
+[**#1209.** [HNOI2004] 最佳包裹](https://hydro.ac/d/bzoj/p/1209)
 
-[**#1210.** [HNOI2004]邮递员](https://hydro.ac/d/bzoj/p/1210)
+[**#1210.** [HNOI2004] 邮递员](https://hydro.ac/d/bzoj/p/1210)
 
-[**#1211.** [HNOI2004]树的计数](https://hydro.ac/d/bzoj/p/1211)
+[**#1211.** [HNOI2004] 树的计数](https://hydro.ac/d/bzoj/p/1211)
 
-[**#1212.** [HNOI2004]L语言](https://hydro.ac/d/bzoj/p/1212)
+[**#1212.** [HNOI2004] L 语言](https://hydro.ac/d/bzoj/p/1212)
 
-[**#1213.** [HNOI2004]高精度开根](https://hydro.ac/d/bzoj/p/1213)
+[**#1213.** [HNOI2004] 高精度开根](https://hydro.ac/d/bzoj/p/1213)
 
-[**#1214.** [Baltic2017]Monsters](https://hydro.ac/d/bzoj/p/1214)
+[**#1214.** [Baltic2017] Monsters](https://hydro.ac/d/bzoj/p/1214)
 
-[**#1215.** [HNOI2003]24点游戏](https://hydro.ac/d/bzoj/p/1215)
+[**#1215.** [HNOI2003] 24 点游戏](https://hydro.ac/d/bzoj/p/1215)
 
-[**#1216.** [HNOI2003]操作系统](https://hydro.ac/d/bzoj/p/1216)
+[**#1216.** [HNOI2003] 操作系统](https://hydro.ac/d/bzoj/p/1216)
 
-[**#1217.** [HNOI2003]消防局的设立](https://hydro.ac/d/bzoj/p/1217)
+[**#1217.** [HNOI2003] 消防局的设立](https://hydro.ac/d/bzoj/p/1217)
 
-[**#1218.** [HNOI2003]激光炸弹](https://hydro.ac/d/bzoj/p/1218)
+[**#1218.** [HNOI2003] 激光炸弹](https://hydro.ac/d/bzoj/p/1218)
 
-[**#1219.** [HNOI2003]历史年份History](https://hydro.ac/d/bzoj/p/1219)
+[**#1219.** [HNOI2003] 历史年份History](https://hydro.ac/d/bzoj/p/1219)
 
-[**#1220.** [HNOI2002]跳蚤](https://hydro.ac/d/bzoj/p/1220)
+[**#1220.** [HNOI2002] 跳蚤](https://hydro.ac/d/bzoj/p/1220)
 
 [**#1221.** [HNOI2001] 软件开发](https://hydro.ac/d/bzoj/p/1221)
 
-[**#1222.** [HNOI2001]产品加工](https://hydro.ac/d/bzoj/p/1222)
+[**#1222.** [HNOI2001] 产品加工](https://hydro.ac/d/bzoj/p/1222)
 
-[**#1223.** [HNOI2002]Kathy函数](https://hydro.ac/d/bzoj/p/1223)
+[**#1223.** [HNOI2002] Kathy 函数](https://hydro.ac/d/bzoj/p/1223)
 
-[**#1224.** [HNOI2002]彩票](https://hydro.ac/d/bzoj/p/1224)
+[**#1224.** [HNOI2002] 彩票](https://hydro.ac/d/bzoj/p/1224)
 
 [**#1225.** [HNOI2001] 求正整数](https://hydro.ac/d/bzoj/p/1225)
 
-[**#1226.** [SDOI2009]学校食堂Dining](https://hydro.ac/d/bzoj/p/1226)
+[**#1226.** [SDOI2009] 学校食堂Dining](https://hydro.ac/d/bzoj/p/1226)
 
-[**#1227.** [SDOI2009]虔诚的墓主人](https://hydro.ac/d/bzoj/p/1227)
+[**#1227.** [SDOI2009] 虔诚的墓主人](https://hydro.ac/d/bzoj/p/1227)
 
-[**#1228.** [SDOI2009]E&D](https://hydro.ac/d/bzoj/p/1228)
+[**#1228.** [SDOI2009] E&D](https://hydro.ac/d/bzoj/p/1228)
 
-[**#1229.** [USACO2008 Nov]toy 玩具](https://hydro.ac/d/bzoj/p/1229)
+[**#1229.** [USACO2008 Nov] 玩具](https://hydro.ac/d/bzoj/p/1229)
 
 [**#1230.** [Usaco2008 Nov]lites 开关灯](https://hydro.ac/d/bzoj/p/1230)
 
 [**#1231.** [Usaco2008 Nov]mixup2 混乱的奶牛](https://hydro.ac/d/bzoj/p/1231)
 
-[**#1232.** [Usaco2008Nov]安慰奶牛cheer](https://hydro.ac/d/bzoj/p/1232)
+[**#1232.** [Usaco2008Nov] 安慰奶牛cheer](https://hydro.ac/d/bzoj/p/1232)
 
-[**#1233.** [Usaco2009Open]干草堆tower](https://hydro.ac/d/bzoj/p/1233)
+[**#1233.** [Usaco2009Open] 干草堆tower](https://hydro.ac/d/bzoj/p/1233)
 
 [**#1234.** Pku3379 Alphabet](https://hydro.ac/d/bzoj/p/1234)
 
-[**#1235.** [SDOI2009]细胞探索](https://hydro.ac/d/bzoj/p/1235)
+[**#1235.** [SDOI2009] 细胞探索](https://hydro.ac/d/bzoj/p/1235)
 
 [**#1236.** SPOJ1433 KPSUM](https://hydro.ac/d/bzoj/p/1236)
 
-[**#1237.** [SCOI2008]配对](https://hydro.ac/d/bzoj/p/1237)
+[**#1237.** [SCOI2008] 配对](https://hydro.ac/d/bzoj/p/1237)
 
-[**#1238.** [SCOI2008]警告warning](https://hydro.ac/d/bzoj/p/1238)
+[**#1238.** [SCOI2008] 警告warning](https://hydro.ac/d/bzoj/p/1238)
 
 [**#1239.** [SCOI2008] 城堡 Castle](https://hydro.ac/d/bzoj/p/1239)
 
 [**#1240.** 不稳定匹配](https://hydro.ac/d/bzoj/p/1240)
 
-[**#1241.** Zmaj程序](https://hydro.ac/d/bzoj/p/1241)
+[**#1241.** Zmaj 程序](https://hydro.ac/d/bzoj/p/1241)
 
 [**#1242.** Zju1015 Fishing Net弦图判定](https://hydro.ac/d/bzoj/p/1242)
 
-[**#1243.** [Seerc2007]Showstopper](https://hydro.ac/d/bzoj/p/1243)
+[**#1243.** [Seerc2007] Showstopper](https://hydro.ac/d/bzoj/p/1243)
 
-[**#1244.** [Croatia2003]VOKITOKI](https://hydro.ac/d/bzoj/p/1244)
+[**#1244.** [Croatia2003] VOKITOKI](https://hydro.ac/d/bzoj/p/1244)
 
-[**#1245.** [Croatia2005]polja](https://hydro.ac/d/bzoj/p/1245)
+[**#1245.** [Croatia2005] polja](https://hydro.ac/d/bzoj/p/1245)
 
 [**#1246.** 背包问题](https://hydro.ac/d/bzoj/p/1246)
 
@@ -520,7 +520,7 @@
 
 [**#1260.** [CQOI2007] 涂色 paint](https://hydro.ac/d/bzoj/p/1260)
 
-[**#1261.** [SCOI2006]zh_tree](https://hydro.ac/d/bzoj/p/1261)
+[**#1261.** [SCOI2006] zh_tree](https://hydro.ac/d/bzoj/p/1261)
 
 [**#1262.** [SC2006] k 进制集合的映射](https://hydro.ac/d/bzoj/p/1262)
 
@@ -538,21 +538,21 @@
 
 [**#1269.** [AHOI2006] 文本编辑器 editor](https://hydro.ac/d/bzoj/p/1269)
 
-[**#1270.** [BeijingWc2008]雷涛的小猫](https://hydro.ac/d/bzoj/p/1270)
+[**#1270.** [BeijingWc2008] 雷涛的小猫](https://hydro.ac/d/bzoj/p/1270)
 
-[**#1271.** [BeiJingWc2008]秦腾与教学评估](https://hydro.ac/d/bzoj/p/1271)
+[**#1271.** [BeiJingWc2008] 秦腾与教学评估](https://hydro.ac/d/bzoj/p/1271)
 
-[**#1272.** [BeiJingWc2008]Gate Of Babylon](https://hydro.ac/d/bzoj/p/1272)
+[**#1272.** [BeiJingWc2008] Gate Of Babylon](https://hydro.ac/d/bzoj/p/1272)
 
 [**#1273.** [BeiJingWc2008] 序列](https://hydro.ac/d/bzoj/p/1273)
 
-[**#1274.** [BeiJingWc2008]Equation](https://hydro.ac/d/bzoj/p/1274)
+[**#1274.** [BeiJingWc2008] Equation](https://hydro.ac/d/bzoj/p/1274)
 
 [**#1275.** grazing](https://hydro.ac/d/bzoj/p/1275)
 
 [**#1276.** 后缀数](https://hydro.ac/d/bzoj/p/1276)
 
-[**#1277.** [HNOI2002]Tinux系统](https://hydro.ac/d/bzoj/p/1277)
+[**#1277.** [HNOI2002] Tinux 系统](https://hydro.ac/d/bzoj/p/1277)
 
 [**#1278.** 向量vector](https://hydro.ac/d/bzoj/p/1278)
 
@@ -570,45 +570,45 @@
 
 [**#1285.** Acid Rain](https://hydro.ac/d/bzoj/p/1285)
 
-[**#1286.** [HNOI2002]沙漠寻宝](https://hydro.ac/d/bzoj/p/1286)
+[**#1286.** [HNOI2002] 沙漠寻宝](https://hydro.ac/d/bzoj/p/1286)
 
 [**#1287.** Cards交换卡片](https://hydro.ac/d/bzoj/p/1287)
 
 [**#1288.** Neighbours](https://hydro.ac/d/bzoj/p/1288)
 
-[**#1289.** [CTSC2009]移盘子](https://hydro.ac/d/bzoj/p/1289)
+[**#1289.** [CTSC2009] 移盘子](https://hydro.ac/d/bzoj/p/1289)
 
-[**#1290.** [Ctsc2009]序列变换](https://hydro.ac/d/bzoj/p/1290)
+[**#1290.** [Ctsc2009] 序列变换](https://hydro.ac/d/bzoj/p/1290)
 
-[**#1291.** [CTSC2009]纷繁世界](https://hydro.ac/d/bzoj/p/1291)
+[**#1291.** [CTSC2009] 纷繁世界](https://hydro.ac/d/bzoj/p/1291)
 
-[**#1292.** [CTSC2009]魔幻花园](https://hydro.ac/d/bzoj/p/1292)
+[**#1292.** [CTSC2009] 魔幻花园](https://hydro.ac/d/bzoj/p/1292)
 
-[**#1293.** [SCOI2009]生日礼物](https://hydro.ac/d/bzoj/p/1293)
+[**#1293.** [SCOI2009] 生日礼物](https://hydro.ac/d/bzoj/p/1293)
 
-[**#1294.** [SCOI2009]围豆豆Bean](https://hydro.ac/d/bzoj/p/1294)
+[**#1294.** [SCOI2009] 围豆豆Bean](https://hydro.ac/d/bzoj/p/1294)
 
-[**#1295.** [SCOI2009]最长距离](https://hydro.ac/d/bzoj/p/1295)
+[**#1295.** [SCOI2009] 最长距离](https://hydro.ac/d/bzoj/p/1295)
 
-[**#1296.** [SCOI2009]粉刷匠](https://hydro.ac/d/bzoj/p/1296)
+[**#1296.** [SCOI2009] 粉刷匠](https://hydro.ac/d/bzoj/p/1296)
 
-[**#1297.** [SCOI2009]迷路](https://hydro.ac/d/bzoj/p/1297)
+[**#1297.** [SCOI2009] 迷路](https://hydro.ac/d/bzoj/p/1297)
 
-[**#1298.** [SCOI2009]骰子的学问](https://hydro.ac/d/bzoj/p/1298)
+[**#1298.** [SCOI2009] 骰子的学问](https://hydro.ac/d/bzoj/p/1298)
 
-[**#1299.** [LLH邀请赛]巧克力棒](https://hydro.ac/d/bzoj/p/1299)
+[**#1299.** [LLH邀请赛] 巧克力棒](https://hydro.ac/d/bzoj/p/1299)
 
-[**#1300.** [LLH邀请赛]大数计算器](https://hydro.ac/d/bzoj/p/1300)
+[**#1300.** [LLH邀请赛] 大数计算器](https://hydro.ac/d/bzoj/p/1300)
 
-[**#1301.** [LLH邀请赛]参观路线](https://hydro.ac/d/bzoj/p/1301)
+[**#1301.** [LLH邀请赛] 参观路线](https://hydro.ac/d/bzoj/p/1301)
 
 [**#1302.** Zju2271 Chance to Encounter a Girl](https://hydro.ac/d/bzoj/p/1302)
 
-[**#1303.** [CQOI2009]中位数图](https://hydro.ac/d/bzoj/p/1303)
+[**#1303.** [CQOI2009] 中位数图](https://hydro.ac/d/bzoj/p/1303)
 
-[**#1304.** [CQOI2009]叶子的染色](https://hydro.ac/d/bzoj/p/1304)
+[**#1304.** [CQOI2009] 叶子的染色](https://hydro.ac/d/bzoj/p/1304)
 
-[**#1305.** [CQOI2009]dance跳舞](https://hydro.ac/d/bzoj/p/1305)
+[**#1305.** [CQOI2009] dance跳舞](https://hydro.ac/d/bzoj/p/1305)
 
 [**#1306.** [CQOI2009] 循环赛](https://hydro.ac/d/bzoj/p/1306)
 
@@ -616,9 +616,9 @@
 
 [**#1308.** fac](https://hydro.ac/d/bzoj/p/1308)
 
-[**#1309.** [POI2005]Pra-Dextrogyrate camel](https://hydro.ac/d/bzoj/p/1309)
+[**#1309.** [POI2005] Pra-Dextrogyrate camel](https://hydro.ac/d/bzoj/p/1309)
 
-[**#1310.** [Baltic2008]Magic Stone](https://hydro.ac/d/bzoj/p/1310)
+[**#1310.** [Baltic2008] Magic Stone](https://hydro.ac/d/bzoj/p/1310)
 
 [**#1311.** 最优压缩](https://hydro.ac/d/bzoj/p/1311)
 
