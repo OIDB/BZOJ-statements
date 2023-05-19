@@ -51,7 +51,7 @@
   },
   {
     "id": 1010,
-    "title": "[HNOI2008] 玩具装箱toy",
+    "title": "[HNOI2008] 玩具装箱",
     "tag": []
   },
   {
@@ -61,22 +61,22 @@
   },
   {
     "id": 1012,
-    "title": "[JSOI2008] 最大数maxnumber",
+    "title": "[JSOI2008] 最大数",
     "tag": []
   },
   {
     "id": 1013,
-    "title": "[JSOI2008] 球形空间产生器sphere",
+    "title": "[JSOI2008] 球形空间产生器",
     "tag": []
   },
   {
     "id": 1014,
-    "title": "[JSOI2008] 火星人prefix",
+    "title": "[JSOI2008] 火星人",
     "tag": []
   },
   {
     "id": 1015,
-    "title": "[JSOI2008] 星球大战starwar",
+    "title": "[JSOI2008] 星球大战",
     "tag": []
   },
   {
@@ -86,12 +86,12 @@
   },
   {
     "id": 1017,
-    "title": "[JSOI2008] 魔兽地图DotR",
+    "title": "[JSOI2008] 魔兽地图",
     "tag": []
   },
   {
     "id": 1018,
-    "title": "[SHOI2008] 堵塞的交通traffic",
+    "title": "[SHOI2008] 堵塞的交通",
     "tag": []
   },
   {
@@ -101,22 +101,22 @@
   },
   {
     "id": 1020,
-    "title": "[SHOI2008] 安全的航线flight",
+    "title": "[SHOI2008] 安全的航线",
     "tag": []
   },
   {
     "id": 1021,
-    "title": "[SHOI2008] Debt 循环的债务",
+    "title": "[SHOI2008] 循环的债务",
     "tag": []
   },
   {
     "id": 1022,
-    "title": "[SHOI2008] 小约翰的游戏John",
+    "title": "[SHOI2008] 小约翰的游戏",
     "tag": []
   },
   {
     "id": 1023,
-    "title": "[SHOI2008] cactus仙人掌图",
+    "title": "[SHOI2008] 仙人掌图",
     "tag": []
   },
   {
@@ -156,22 +156,22 @@
   },
   {
     "id": 1031,
-    "title": "[JSOI2007] 字符加密Cipher",
+    "title": "[JSOI2007] 字符加密",
     "tag": []
   },
   {
     "id": 1032,
-    "title": "[JSOI2007] 祖码Zuma",
+    "title": "[JSOI2007] 祖码",
     "tag": []
   },
   {
     "id": 1033,
-    "title": "[ZJOI2008] 杀蚂蚁antbuster",
+    "title": "[ZJOI2008] 杀蚂蚁",
     "tag": []
   },
   {
     "id": 1034,
-    "title": "[ZJOI2008] 泡泡堂BNB",
+    "title": "[ZJOI2008] 泡泡堂",
     "tag": []
   },
   {
@@ -181,12 +181,12 @@
   },
   {
     "id": 1036,
-    "title": "[ZJOI2008] 树的统计Count",
+    "title": "[ZJOI2008] 树的统计",
     "tag": []
   },
   {
     "id": 1037,
-    "title": "[ZJOI2008] 生日聚会Party",
+    "title": "[ZJOI2008] 生日聚会",
     "tag": []
   },
   {
@@ -196,7 +196,7 @@
   },
   {
     "id": 1039,
-    "title": "[ZJOI2008] 无序运动Movement",
+    "title": "[ZJOI2008] 无序运动",
     "tag": []
   },
   {
@@ -251,7 +251,7 @@
   },
   {
     "id": 1050,
-    "title": "[HAOI2006] 旅行comf",
+    "title": "[HAOI2006] 旅行",
     "tag": []
   },
   {
@@ -266,7 +266,7 @@
   },
   {
     "id": 1053,
-    "title": "[HAOI2007] 反素数ant",
+    "title": "[HAOI2007] 反素数",
     "tag": []
   },
   {
@@ -361,7 +361,7 @@
   },
   {
     "id": 1072,
-    "title": "[SCOI2007] 排列perm",
+    "title": "[SCOI2007] 排列",
     "tag": []
   },
   {
@@ -371,12 +371,12 @@
   },
   {
     "id": 1074,
-    "title": "[SCOI2007] 折纸origami",
+    "title": "[SCOI2007] 折纸",
     "tag": []
   },
   {
     "id": 1075,
-    "title": "[SCOI2007] 最优驾车drive",
+    "title": "[SCOI2007] 最优驾车",
     "tag": []
   },
   {
@@ -436,17 +436,17 @@
   },
   {
     "id": 1087,
-    "title": "[SCOI2005] 互不侵犯King",
+    "title": "[SCOI2005] 互不侵犯",
     "tag": []
   },
   {
     "id": 1088,
-    "title": "[SCOI2005] 扫雷Mine",
+    "title": "[SCOI2005] 扫雷",
     "tag": []
   },
   {
     "id": 1089,
-    "title": "[SCOI2003] 严格n元树",
+    "title": "[SCOI2003] 严格 n 元树",
     "tag": []
   },
   {
@@ -486,232 +486,232 @@
   },
   {
     "id": 1097,
-    "title": "[POI2007] 旅游景点atr",
+    "title": "[POI2007] ATR - 旅游景点 Tourist Attractions",
     "tag": []
   },
   {
     "id": 1098,
-    "title": "[POI2007] 办公楼biu",
+    "title": "[POI2007] BIU - 办公楼 Offices",
     "tag": []
   },
   {
     "id": 1099,
-    "title": "[POI2007] 树Drz",
+    "title": "[POI2007] DRZ - 树 Trees",
     "tag": []
   },
   {
     "id": 1100,
-    "title": "[POI2007] 对称轴osi",
+    "title": "[POI2007] OSI - 对称轴 Axes of Symmetry",
     "tag": []
   },
   {
     "id": 1101,
-    "title": "[POI2007] Zap",
+    "title": "[POI2007] ZAP - Queries",
     "tag": []
   },
   {
     "id": 1102,
-    "title": "[POI2007] 山峰和山谷Grz",
+    "title": "[POI2007] GRZ - 山峰和山谷 Ridges and Valleys",
     "tag": []
   },
   {
     "id": 1103,
-    "title": "[POI2007] 大都市meg",
+    "title": "[POI2007] MEG - 大都市 Megalopolis",
     "tag": []
   },
   {
     "id": 1104,
-    "title": "[POI2007] 洪水pow",
+    "title": "[POI2007] POW - 洪水The Flood",
     "tag": []
   },
   {
     "id": 1105,
-    "title": "[POI2007] 石头花园SKA",
+    "title": "[POI2007] SKA - 石头花园 Rock Garden",
     "tag": []
   },
   {
     "id": 1106,
-    "title": "[POI2007] 立方体大作战tet",
+    "title": "[POI2007] TET - 立方体大作战 Tetris Attack",
     "tag": []
   },
   {
     "id": 1107,
-    "title": "[POI2007] 驾驶考试egz",
+    "title": "[POI2007] EGZ - 驾驶考试 Driving Exam",
     "tag": []
   },
   {
     "id": 1108,
-    "title": "[POI2007] 天然气管道Gaz",
+    "title": "[POI2007] GAZ - 天然气管道",
     "tag": []
   },
   {
     "id": 1109,
-    "title": "[POI2007] 堆积木Klo",
+    "title": "[POI2007] KLO - 堆积木",
     "tag": []
   },
   {
     "id": 1110,
-    "title": "[POI2007] 砝码Odw",
+    "title": "[POI2007] ODW - 砝码 Weights",
     "tag": []
   },
   {
     "id": 1111,
-    "title": "[POI2007] 四进制的天平Wag",
+    "title": "[POI2007] WAG - 四进制的天平 Quaternary Balance",
     "tag": []
   },
   {
     "id": 1112,
-    "title": "[POI2008] 砖块Klo",
+    "title": "[POI2008] KLO - 砖块 Building blocks",
     "tag": []
   },
   {
     "id": 1113,
-    "title": "[POI2008] 海报PLA",
+    "title": "[POI2008] PLA - 海报 Postering",
     "tag": []
   },
   {
     "id": 1114,
-    "title": "[POI2008] 鲁滨逊逃生Rob",
+    "title": "[POI2008] ROB - 鲁滨逊逃生 Robinson",
     "tag": []
   },
   {
     "id": 1115,
-    "title": "[POI2009] 石子游戏Kam",
+    "title": "[POI2009] KAM - 石子游戏 Pebbles",
     "tag": []
   },
   {
     "id": 1116,
-    "title": "[POI2008] CLO",
+    "title": "[POI2008] CLO - Toll",
     "tag": []
   },
   {
     "id": 1117,
-    "title": "[POI2009] 救火站Gas",
+    "title": "[POI2009] GAS - 救火站 Fire Extinguishers",
     "tag": []
   },
   {
     "id": 1118,
-    "title": "[POI2009] Prz",
+    "title": "[POI2009] PRZ - Algorithm Speedup",
     "tag": []
   },
   {
     "id": 1119,
-    "title": "[POI2009] SLO",
+    "title": "[POI2009] SLO - Elephants",
     "tag": []
   },
   {
     "id": 1120,
-    "title": "[POI2009] STR",
+    "title": "[POI2009] STR - Fire Brigade",
     "tag": []
   },
   {
     "id": 1121,
-    "title": "[POI2008] 激光发射器SZK",
+    "title": "[POI2008] SZK 激光发射器 Mirror trap",
     "tag": []
   },
   {
     "id": 1122,
-    "title": "[POI2008] 账本BBB",
+    "title": "[POI2008] BBB - 账本 BBB",
     "tag": []
   },
   {
     "id": 1123,
-    "title": "[POI2008] BLO",
+    "title": "[POI2008] BLO - Blockade",
     "tag": []
   },
   {
     "id": 1124,
-    "title": "[POI2008] 枪战Maf",
+    "title": "[POI2008] MAF - 枪战 Mafia",
     "tag": []
   },
   {
     "id": 1125,
-    "title": "[POI2008] Poc",
+    "title": "[POI2008] POC - Trains",
     "tag": []
   },
   {
     "id": 1126,
-    "title": "[POI2008] Uci",
+    "title": "[POI2008] UCI - The Great Escape",
     "tag": []
   },
   {
     "id": 1127,
-    "title": "[POI2008] KUP",
+    "title": "[POI2008] KUP - Plot purchase",
     "tag": []
   },
   {
     "id": 1128,
-    "title": "[POI2008] Lam",
+    "title": "[POI2008] LAM",
     "tag": []
   },
   {
     "id": 1129,
-    "title": "[POI2008] Per",
+    "title": "[POI2008] PER - Permutation",
     "tag": []
   },
   {
     "id": 1130,
-    "title": "[POI2008] POD Subdivision of Kingdom",
+    "title": "[POI2008] POD - Subdivision of Kingdom",
     "tag": []
   },
   {
     "id": 1131,
-    "title": "[POI2008] Sta",
+    "title": "[POI2008] STA - Station",
     "tag": []
   },
   {
     "id": 1132,
-    "title": "[POI2008] Tro",
+    "title": "[POI2008] TRO - Station",
     "tag": []
   },
   {
     "id": 1133,
-    "title": "[POI2009] Kon",
+    "title": "[POI2009] KON - Ticket Inspector",
     "tag": []
   },
   {
     "id": 1134,
-    "title": "[POI2009] Wys 三角形岛",
+    "title": "[POI2009] WYS - 三角形岛 Isles in a Triangular Grid",
     "tag": []
   },
   {
     "id": 1135,
-    "title": "[POI2009] Lyz",
+    "title": "[POI2009] LYZ - Ice Skates",
     "tag": []
   },
   {
     "id": 1136,
-    "title": "[POI2009] Arc",
+    "title": "[POI2009] ARC - Architects",
     "tag": []
   },
   {
     "id": 1137,
-    "title": "[POI2009] Wsp 岛屿",
+    "title": "[POI2009] WSP - 岛屿 Island",
     "tag": []
   },
   {
     "id": 1138,
-    "title": "[POI2009] Baj 最短回文路",
+    "title": "[POI2009] BAJ - 最短回文路 The Walk of Bytie-boy",
     "tag": []
   },
   {
     "id": 1139,
-    "title": "[POI2009] Wie",
+    "title": "[POI2009] WIE - Hexer",
     "tag": []
   },
   {
     "id": 1140,
-    "title": "[POI2009] KOD 编码",
+    "title": "[POI2009] KOD - 编码 The Code",
     "tag": []
   },
   {
     "id": 1141,
-    "title": "[POI2009] Slw",
+    "title": "[POI2009] SLW - Words",
     "tag": []
   },
   {
     "id": 1142,
-    "title": "[POI2009] Tab",
+    "title": "[POI2009] TAB - Arrays",
     "tag": []
   },
   {
